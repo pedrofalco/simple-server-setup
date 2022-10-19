@@ -3,7 +3,7 @@
 `ES`
 Simple template con lo mínimo para crear una aplicación web o un servidor web que puede ser utilizado para diseñar una api, construir un bot, manejar una base de datos, testear tu propia web o correr tus propios sketches generativos.
 
-### Quick Start with Node.js & npm
+### Rápida instalación con Node.js y npm
 
 Para usar este respositorio es necesario descargar Node.js
 
