@@ -35,8 +35,6 @@ Simple template with the minimum to create a web application or a web server tha
 
 ### Quick Start with Node.js & npm
 
-Para usar este respositorio es necesario descargar [Node.js](https://nodejs.org/es/).
-
 To use this repository you'll need to download [Node.js](https://nodejs.org/es/).
 
 1. Download or clone the repo to your computer.
