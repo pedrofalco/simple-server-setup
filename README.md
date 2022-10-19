@@ -5,7 +5,7 @@ Simple template con lo mínimo para crear una aplicación web o un servidor web 
 
 ### Rápida instalación con Node.js y npm
 
-Para usar este respositorio es necesario descargar Node.js
+Para usar este respositorio es necesario descargar [Node.js](https://nodejs.org/es/).
 
 1. Descargar o clonar el repositorio en tu computadora.
 
@@ -34,6 +34,10 @@ Modificar el archivo `index.js` para customizar el backend.
 Simple template with the minimum to create a web application or a web server that can be used to design an api, build a bot, manage a database, test your own web or run your own generative sketches.
 
 ### Quick Start with Node.js & npm
+
+Para usar este respositorio es necesario descargar [Node.js](https://nodejs.org/es/).
+
+To use this repository you'll need to download [Node.js](https://nodejs.org/es/).
 
 1. Download or clone the repo to your computer.
 
