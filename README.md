@@ -3,17 +3,17 @@
 `ES`
 Simple template con lo mínimo para crear una aplicación web o un servidor web que puede ser utilizado para diseñar una api, construir un bot, manejar una base de datos, testear tu propia web o correr tus propios sketches generativos.
 
-### Rápida instalación con Node.js y npm
+### Rápida instalación con Node.js y npm 🚩
 
 Para usar este respositorio es necesario descargar [Node.js](https://nodejs.org/es/).
 
 1. Descargar o clonar el repositorio en tu computadora.
 
-2. Instalar la única dependencia (*express*) en la carpeta de destino ejecutando en la consola `npm i` o manualmente `npm i express`.
+2. Instalar la única dependencia ([express](https://expressjs.com/es/)) en la carpeta de destino ejecutando en la consola `npm i` o manualmente `npm i express`.
 
 3. `npm start` para inicilizar la app.
 
-### Comentarios y comandos
+### Comentarios y comandos 🚏
 
 Para inicializar en modo *test* (la app se reiniciará cada vez que se haga un cambio en ella) ejecutar en la consola:
 
@@ -39,17 +39,17 @@ Modificar el archivo `index.js` para customizar el backend. En este caso, el arc
 `EN`
 Simple template with the minimum to create a web application or a web server that can be used to design an api, build a bot, manage a database, test your own web or run your own generative sketches.
 
-### Quick Start with Node.js & npm
+### Quick Start with Node.js & npm 🚩
 
 To use this repository you'll need to download [Node.js](https://nodejs.org/es/).
 
 1. Download or clone the repo to your computer.
 
-2. Install the single dependency (*express*) in your desired folder by running `npm i` on the console or manually `npm i express`.
+2. Install the single dependency ([express](https://expressjs.com/es/)) in your desired folder by running `npm i` on the console or manually `npm i express`.
 
 3. `npm start` to run the app. 
-
-### Comments & commands
+ 
+### Comments & commands 🚏
 
 In order to start in *test* mode (the app will be restarted each time a change is made to it):
 
